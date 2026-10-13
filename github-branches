@@ -1,8 +1,8 @@
-$ git branch -a
-* main
-  bug-fix-typo
-  bug-fix-revert
+$ git branch -av
+* main           a1b2c3d Update README and add project files
+  bug-fix-typo   e4f5g6h Fix typo in README.md
+  bug-fix-revert c3d4e5f Revert bug-fix-typo
   remotes/origin/HEAD -> origin/main
-  remotes/origin/main
-  remotes/origin/bug-fix-typo
-  remotes/origin/bug-fix-revert
+  remotes/origin/main           a1b2c3d Update README and add project files
+  remotes/origin/bug-fix-typo   e4f5g6h Fix typo in README.md
+  remotes/origin/bug-fix-revert c3d4e5f Revert bug-fix-revert
