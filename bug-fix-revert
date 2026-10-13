@@ -1,8 +1,11 @@
-$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
 
 [
   {
     "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/3597",
+    "id": 3105780988,
+    "node_id": "PR_kwDOHG...",
+    "number": 3597,
     "state": "closed",
     "title": "Revert bug-fix-typo",
     "user": {
@@ -12,6 +15,8 @@ $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introd
       "label": "mnsrnrslt:bug-fix-revert",
       "ref": "bug-fix-revert",
       "repo": {
+        "id": 123456789,
+        "name": "github-final-project",
         "full_name": "mnsrnrslt/github-final-project",
         "fork": true
       }
@@ -20,6 +25,8 @@ $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introd
       "label": "ibm-developer-skills-network:main",
       "ref": "main",
       "repo": {
+        "id": 987654321,
+        "name": "mcino-Introduction-to-Git-and-GitHub",
         "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
         "fork": false
       }
