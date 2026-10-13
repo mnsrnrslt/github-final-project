@@ -1,11 +1,8 @@
 $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
 
-Terminal output:
 [
   {
     "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/3597",
-    "id": 3105780988,
-    "number": 3597,
     "state": "closed",
     "title": "Revert bug-fix-typo",
     "user": {
@@ -15,7 +12,7 @@ Terminal output:
       "label": "mnsrnrslt:bug-fix-revert",
       "ref": "bug-fix-revert",
       "repo": {
-        "full_name": "mnsrnrslt/mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "mnsrnrslt/github-final-project",
         "fork": true
       }
     },
