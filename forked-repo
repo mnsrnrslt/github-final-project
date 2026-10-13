@@ -1,0 +1,23 @@
+$ curl -s https://api.github.com/repos/mnsrnrslt/mcino-Introduction-to-Git-and-GitHub
+
+Terminal output:
+{
+  "id": 482910321,
+  "node_id": "R_kgDOHG...==",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "your-github-username/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "fork": true,
+  "parent": {
+    "id": 352910111,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "id": 352910111,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
